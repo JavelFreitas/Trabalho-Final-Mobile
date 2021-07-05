@@ -26,17 +26,15 @@
 > Para a segunda entrega apresentaremos as 5 primeiras telas.
 
 1. (Tela Inicial) Tela de Visualização de Propriedades
-1. Tela de Cadastro de Propriedade
+1. Tela de Cadastro/Edição de Propriedade
 1. Tela de Detalhes de Propriedade
-1. Tela de Edição de Propriedade
 1. Tela de Visualização de Culturas
-1. Tela de Cadastro de Cultura
+1. Tela de Cadastro/Edição de Cultura
 1. Tela de Detalhes de Cultura
-1. Tela de Edição de Cultura
 1. Tela de Visualização de Anotações
-1. Tela de Cadastro de Anotação
+1. Tela de Cadastro/Edição de Anotação
 1. Tela de Detalhes de Anotação
-1. Tela de Edição de Anotação
+
 
 <!---
 ## Integrações
